@@ -5,3 +5,6 @@ console.log(FloatChromosome.mutate(fChrom));
 
 const notReallyAChrom = { floatVector: [0, 0, 0, 1] };
 console.log(FloatChromosome.mutate(notReallyAChrom));
+
+const wrongChrom = new StringChromosome("010", 3);
+console.log(FloatChromosome.mutate(wrongChrom));
