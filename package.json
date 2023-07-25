@@ -1,0 +1,18 @@
+{
+  "name": "dev.to-js-types",
+  "version": "1.0.0",
+  "description": "Examples for dev.to article",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "types"
+  ],
+  "author": "JJ Merelo",
+  "license": "GPL-3.0-or-later",
+  "type": "module"
+}
